@@ -1,5 +1,4 @@
 #Lab7
-#jsk362
 
 install.packages("tree")
 #Loading Libraries
