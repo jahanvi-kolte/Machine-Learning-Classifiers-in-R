@@ -1,5 +1,5 @@
 #Lab2
-#Jahanvi (jsk362)
+
 
 ###Read the dataset
 titanic <- read.csv("titanic.csv", header=T, na.strings = '')
