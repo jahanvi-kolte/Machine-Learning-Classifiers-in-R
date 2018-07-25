@@ -1,4 +1,3 @@
-#Jahanvi 
 #Lab 3
 
 getwd()
