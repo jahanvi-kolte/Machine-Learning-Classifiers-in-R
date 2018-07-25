@@ -1,5 +1,4 @@
 #Lab6
-#jsk362
 
 #Install Packages
 install.packages("ISLR")
